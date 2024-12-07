@@ -19,3 +19,5 @@ The repository includes:
 - `wireframe/`: Contains low-fidelity wireframe designs.  
 - `mockup/`: Includes the polished, high-fidelity mockup designs.  
 - `README.md`: Project documentation.  
+
+[Figma Desgin](https://www.figma.com/design/YwYHBO51mhUZVBGmLGjEWD/Wireframe-%26-Mockup?node-id=0-1&t=KFCRLACdGFrOC3KS-1)
